@@ -1,0 +1,16 @@
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/example_getx
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/images/scannericon.png
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/images/avatar.png
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/images/KCBlogo.png
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/images/avatar_sign.png
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/css02/projects/attendGuard/build/linux/x64/debug/bundle/data/flutter_assets/version.json
